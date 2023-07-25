@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Pratik Rana</h1>
-<h3 align="center">I am a Software Developer from India. Currently pursuing a Bachelor's degree in CS and AI.<br>Connect with me @<a href="https://linktr.ee/pratikrana"> linktr.ee/pratikrana</a></h3>
+<h3 align="center">I am a Software Developer from India. Currently pursuing a Bachelor's degree in CS and AI.<br> Learn more about me @<a href="https://linktr.ee/pratikrana"> linktr.ee/pratikrana</a></h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikranaa&label=Profile%20views&color=0e75b6&style=flat" alt="pratikranaa" /> </p>-->
 
